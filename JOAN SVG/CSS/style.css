@@ -1,0 +1,17 @@
+
+
+body {
+    margin: 0;
+    background-color: black;
+    position: fixed;
+    width: 100vw;
+    height: 100dvh;
+    
+}
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
